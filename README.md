@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Leonardo, seja bem-vindo ao meu perfil :)
 
 
-- 🔭 Atualmente apenas estudando e buscando a primeira oportunidade na carreira
-- 🌱 Estudando Informática para Internet - Senac/SP no período noturno e vou iniciar um curso de período integral pela Kenzie no dia 27/09
+- 🔭 Atualmente apenas estudando e buscando a primeira oportunidade na carreira.
+- 🌱 Estudando Informática para Internet - Senac/SP no período noturno e iniciando um curso de período integral pela Kenzie no dia 27/09.
 
 <div>
   <a href="https://github.com/LeoMelegari">
