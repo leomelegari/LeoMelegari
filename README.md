@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente apenas estudando e buscando a primeira oportunidade na carreira.
-- 🌱 Estudando Informática para Internet - Senac/SP no período noturno e iniciando um curso de período integral pela Kenzie no dia 27/09.
+- 🌱 Estudando Informática para Internet - Senac/SP no período noturno e na Kenzie Academy em período integral.
 
 <div>
   <a href="https://github.com/LeoMelegari">
