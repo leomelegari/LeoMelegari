@@ -1,8 +1,7 @@
-### Olá! Meu nome é Leonardo, seja bem-vindo ao meu perfil :)
+### Olá, sou o Léo! Seja bem-vindo ao meu perfil 👋🏻
 
 
-- 🔭 Atualmente apenas estudando e buscando a primeira oportunidade na carreira.
-- 🌱 Estudando na Kenzie Academy em período integral.
+- 👨🏻‍💻 Atualmente sou Dev Full-Stack na O.K Desenvolvimento de Softwares, voltado para React + Firebase e também em Python + Django templates
 
 <div>
   <a href="https://github.com/LeoMelegari">
