@@ -1,4 +1,9 @@
-- 👨🏻‍💻 Atualmente sou Dev Full-Stack na O.K Desenvolvimento de Softwares, voltado para React + Firebase e também em Python + Django templates
+I'm a full stack developer with over three years of experience in creating web and mobile solutions for various clients and projects. Currently, I work at OK Desenvolvimento de Software, a company that provides development, maintenance, and IT consulting services.
+
+I have skills in React, Nextjs, JavaScript, Typescript, Nodejs, Prisma, Python, Django, Git, among other tools and frameworks. Additionally, I have knowledge in GitFlow, Django REST Framework, Tailwind, Framer Motion and styled-components, which enable me to develop applications with quality, performance, and design. I am passionate about learning new technologies and challenging myself to solve complex problems with creativity and efficiency.
+
+My goal is to contribute to the success of my clients and my team by delivering solutions that meet their needs and expectations.
+
 <div style="display: flex">
   <div>
     <a href="https://github.com/LeoMelegari">
